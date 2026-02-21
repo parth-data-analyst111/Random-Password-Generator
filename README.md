@@ -1,6 +1,7 @@
 # Random-Password-Generator
 Beginner Python project that generates secure random passwords
 
+# No external libraries required
 # Random Password Generator 🔐
 
 This is a beginner Python mini project that generates a strong random password using letters, numbers, and symbols.
